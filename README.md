@@ -3,9 +3,6 @@
 </h1>
 
 
-
-# Hey there, Im Tanisha! 👋
-
 ## Data Science Enthusiast
 
 - 🔭 I’m currently working on upskilling myself
