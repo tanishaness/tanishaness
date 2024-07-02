@@ -1,0 +1,7 @@
+<svg width="500" height="100">
+  <text x="10" y="50" font-family="Arial" font-size="24" fill="black">
+    <animate attributeName="opacity" dur="2s" values="0;1" keyTimes="0;1" repeatCount="indefinite" />
+    <animate attributeName="x" dur="2s" values="-100;10" keyTimes="0;1" repeatCount="indefinite" />
+    Hey there, have a look at my profile! 👋
+  </text>
+</svg>
