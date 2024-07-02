@@ -9,7 +9,7 @@
 - 🌱 Blogs out soon
 - 👯 I’m looking to collaborate on some ML projects
 - 💬 Ask me about Data Science
-- 📫 How to reach me for hackathons: [GMAIL](mailto:tanishaness22@gmail.com), [INSTAGRAM](https://www.instagram.com/tannishaness/)
+- 📫 How to reach me: [GMAIL](mailto:tanishaness22@gmail.com)
 - ⚡ Fun fact: You can find your study buddy on [GITHUB SERVER](https://discord.gg/zN92t7V5)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishaness&show_icons=true&theme=radical)
@@ -26,3 +26,11 @@
 ![Java](https://img.shields.io/badge/-Java-orange)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-green)
 ![SQL](https://img.shields.io/badge/-SQL-red) 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-lalwani-bb08b029a/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/tannishaness)
+
+<h1 align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanishaness&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</h1>
