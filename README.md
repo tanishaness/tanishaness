@@ -1,4 +1,7 @@
-![](introgit.svg)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=Hi+I+am+Tanisha%2C+let%27s+connect!" alt="Typing SVG" />
+</h1>
+
 
 
 # Hey there, Im Tanisha! 👋
@@ -15,6 +18,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishaness&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaness&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub Trophies 🏆
+
+![trophy](https://github-profile-trophy.vercel.app/?username=tanishaness&theme=onedark)
+
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-blue)
