@@ -1,4 +1,4 @@
-!(introgit.svg)
+![](introgit.svg)
 
 
 # Hey there, Im Tanisha! 👋
