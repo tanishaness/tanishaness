@@ -19,6 +19,9 @@
 ## GitHub Trophies 🏆
 ![trophy](https://github-profile-trophy.vercel.app/?username=tanishaness&theme=onedark&cache_seconds=3600)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishaness&show_icons=true&theme=radical&hide_title=true)
+
+
 ### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![Java](https://img.shields.io/badge/-Java-orange)
