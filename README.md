@@ -12,14 +12,12 @@
 - 📫 How to reach me: [GMAIL](mailto:tanishaness22@gmail.com)
 - ⚡ Fun fact: You can find your study buddy on [GITHUB SERVER](https://discord.gg/zN92t7V5)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishaness&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishaness&show_icons=true&theme=radical&cache_seconds=3600)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaness&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaness&layout=compact&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Trophies 🏆
-
-![trophy](https://github-profile-trophy.vercel.app/?username=tanishaness&theme=onedark)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=tanishaness&theme=onedark&cache_seconds=3600)
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-blue)
