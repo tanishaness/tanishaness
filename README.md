@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on some ML projects
 - 💬 Ask me about Data Science
 - 📫 How to reach me: [GMAIL](mailto:tanishaness22@gmail.com)
-- ⚡ Fun fact: You can find your study buddy on [GITHUB SERVER](https://discord.gg/zN92t7V5)
+- ⚡ Fun fact: You can find your study buddy on [DISCORD SERVER](https://discord.gg/zN92t7V5)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishaness&show_icons=true&theme=radical&cache_seconds=3600)
 
