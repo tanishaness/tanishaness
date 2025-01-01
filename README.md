@@ -7,7 +7,7 @@
 
 🎓 **Pursuing**: B.Sc in Data Science & AI/ML  
 🚀 **Passions**: Building innovative projects, content creation, and audio engineering.  
-💡 **Skills**: A generalist with expertise in Data Science, Web Development, Cloud Computing, Cybersecurity, and Web3.  
+💡 **Skills**: A generalist with knowledge in Data Science, Web Development, Cloud Computing, Cybersecurity, and Web3.  
 🌱 **Currently Learning**: AR/VR, MLOps, System Design, and DevOps.  
 
 ---
