@@ -98,7 +98,7 @@ Check out my articles on [Medium](https://medium.com/@tanishaness)
 
 ## 🌐 Socials:
 📧 Email	tanishaness22@gmail.com
-📸 Instagram	@tannishaness
+📸 Instagram	@tanie.mp3
 💼 LinkedIn	@Tanisha-Lalwani
 🌀 Discord	@chinkichacha
 
