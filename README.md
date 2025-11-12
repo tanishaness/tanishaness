@@ -13,7 +13,7 @@
 - 🥉 CodeCraftChallenge 2023 (Karnavati University) — 2nd Runner-up  
 - 🎓 Google Generative AI Study Jams graduate  
 - 🎯 Java DSA certified by IIT Kharagpur  
-- 📊 Google Data Analytics course completion (yes, I like dashboards)
+- 📊 Google Data Analytics course completion (yes, I like dashboards, I have a degree in data science)
 
 
 #### 📜 Blog Posts
