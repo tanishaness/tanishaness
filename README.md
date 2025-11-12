@@ -2,18 +2,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=I+make+animated+websites!!" alt="Typing SVG" />
 </h1>
 
-## Hey, I’m Tanisha Lalwani (@tanishaness)
-- Full stack developer, Been fooling around with AI, Web3, and cloud bits lately — because who doesn't want their portfolio to sound like a buzzword salad?
-- Got into tech out of curiosity, stayed because making stuff is addictive.
-- I’ve built, broken, and rebuilt more projects than I’d like to admit.
-- Currently building startups, freelancing, and community gigs because who needs free time anyway?
+<span style="color:#D36C9E; font-weight:bold;">## Hey, I’m Tanisha Lalwani (@tanishaness)</span><br>
+<span style="color:#D36C9E;">- Full stack developer, Been fooling around with AI, Web3, and cloud bits lately — because who doesn't want their portfolio to sound like a buzzword salad?</span><br>
+<span style="color:#D36C9E;">- Got into tech out of curiosity, stayed because making stuff is addictive.</span><br>
+<span style="color:#D36C9E;">- I’ve built, broken, and rebuilt more projects than I’d like to admit.</span><br>
+<span style="color:#D36C9E;">- Currently building startups, freelancing, and community gigs because who needs free time anyway?</span><br><br>
 
-#### Highlights from the chaos:
-- 🥉 HackForIndia 2023 (Silver Oak University) — 2nd Runner-up  
-- 🥉 CodeCraftChallenge 2023 (Karnavati University) — 2nd Runner-up  
-- 🎓 Google Generative AI Study Jams graduate  
-- 🎯 Java DSA certified by IIT Kharagpur  
-- 📊 Google Data Analytics course completion (yes, I like dashboards, I have a degree in data science)
+<span style="color:#D36C9E; font-weight:bold;">#### Highlights from the chaos:</span><br>
+<span style="color:#D36C9E;">- 🥉 HackForIndia 2023 (Silver Oak University) — 2nd Runner-up</span><br>
+<span style="color:#D36C9E;">- 🥉 CodeCraftChallenge 2023 (Karnavati University) — 2nd Runner-up</span><br>
+<span style="color:#D36C9E;">- 🎓 Google Generative AI Study Jams graduate</span><br>
+<span style="color:#D36C9E;">- 🎯 Java DSA certified by IIT Kharagpur</span><br>
+<span style="color:#D36C9E;">- 📊 Google Data Analytics course completion (yes, I like dashboards, I have a degree in data science)</span>
+
 
 
 #### 📜 Blog Posts
