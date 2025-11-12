@@ -31,23 +31,50 @@ Check out my articles on [Medium](https://medium.com/@tanishaness)
 ### **Tech Stack**
 
 #### **Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java" width="32" style="margin-right:6px;" alt="Java" />
+<img src="https://skillicons.dev/icons?i=python" width="32" style="margin-right:6px;" alt="Python" />
+<img src="https://skillicons.dev/icons?i=html" width="32" style="margin-right:6px;" alt="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" width="32" style="margin-right:6px;" alt="CSS3" />
+<img src="https://skillicons.dev/icons?i=javascript" width="32" style="margin-right:6px;" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=markdown" width="32" style="margin-right:6px;" alt="Markdown" />
 
 #### **Frameworks and Libraries**
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23644AC6.svg?style=flat-square&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23137183.svg?style=flat-square&logo=matplotlib&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react" width="32" style="margin-right:6px;" alt="React" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="32" style="margin-right:6px;" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=tailwindcss" width="32" style="margin-right:6px;" alt="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=express" width="32" style="margin-right:6px;" alt="Express.js" />
+<img src="https://skillicons.dev/icons?i=flask" width="32" style="margin-right:6px;" alt="Flask" />
+<img src="https://skillicons.dev/icons?i=threejs" width="32" style="margin-right:6px;" alt="Three.js" />
+<img src="https://skillicons.dev/icons?i=tensorflow" width="32" style="margin-right:6px;" alt="TensorFlow" />
+<img src="https://skillicons.dev/icons?i=pytorch" width="32" style="margin-right:6px;" alt="PyTorch" />
+<img src="https://skillicons.dev/icons?i=scikitlearn" width="32" style="margin-right:6px;" alt="scikit-learn" />
+<img src="https://skillicons.dev/icons?i=seaborn" width="32" style="margin-right:6px;" alt="Seaborn" />
+<img src="https://skillicons.dev/icons?i=pandas" width="32" style="margin-right:6px;" alt="Pandas" />
+<img src="https://skillicons.dev/icons?i=numpy" width="32" style="margin-right:6px;" alt="NumPy" />
+<img src="https://skillicons.dev/icons?i=matplotlib" width="32" style="margin-right:6px;" alt="Matplotlib" />
 
 #### **Data Science Tools**
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat-square&logo=tableau&logoColor=white) ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-%234285F4.svg?style=flat-square&logo=google%20data%20studio&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-%230072C6.svg?style=flat-square&logoColor=white)
+<img src="https://skillicons.dev/icons?i=powerbi" width="32" style="margin-right:6px;" alt="Power BI" />
+<img src="https://skillicons.dev/icons?i=tableau" width="32" style="margin-right:6px;" alt="Tableau" />
+<img src="https://skillicons.dev/icons?i=googleanalytics" width="32" style="margin-right:6px;" alt="Google Data Studio" />
+<img src="https://skillicons.dev/icons?i=etl" width="32" style="margin-right:6px;" alt="ETL" />
 
 #### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql" width="32" style="margin-right:6px;" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="32" style="margin-right:6px;" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=sqlite" width="32" style="margin-right:6px;" alt="SQLite" />
 
 #### **Cloud Platforms**
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoft-azure&logoColor=white)
+<img src="https://skillicons.dev/icons?i=googlecloud" width="32" style="margin-right:6px;" alt="Google Cloud" />
+<img src="https://skillicons.dev/icons?i=aws" width="32" style="margin-right:6px;" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=azure" width="32" style="margin-right:6px;" alt="Azure" />
 
 #### **Other Tools**
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=figma" width="32" style="margin-right:6px;" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=postman" width="32" style="margin-right:6px;" alt="Postman" />
+<img src="https://skillicons.dev/icons?i=notion" width="32" style="margin-right:6px;" alt="Notion" />
+<img src="https://skillicons.dev/icons?i=git" width="32" style="margin-right:6px;" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" width="32" style="margin-right:6px;" alt="GitHub" />
 
 ## 🌐 Socials:
 📧 Email	tanishaness22@gmail.com
