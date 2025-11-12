@@ -33,7 +33,7 @@ Check out my articles on [Medium](https://medium.com/@tanishaness)
 <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,markdown" alt="Languages" style="margin-right:7px;" />
 
 **Frameworks and Libraries**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwindcss,express,flask,threejs,tensorflow,pytorch,scikitlearn,seaborn,pandas,numpy,matplotlib" alt="Frameworks and Libraries" style="margin-right:7px;" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwindcss,express,flask,threejs" alt="Frameworks and Libraries" style="margin-right:7px;" />
 
 **Data Science Tools**  
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn" alt="Data Science Tools" style="margin-right:7px;" />
