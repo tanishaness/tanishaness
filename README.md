@@ -1,47 +1,36 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=Hi+I+am+Tanisha%2C+let%27s+connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=I+make+static+sites+jealous+with+animation!" alt="Typing SVG" />
 </h1>
 
+## Hey, I’m Tanisha Lalwani (@tanishaness)
+- Full stack developer, Been fooling around with AI, Web3, and cloud bits lately — because who doesn't want their portfolio to sound like a buzzword salad?
+- Got into tech out of curiosity, stayed because making stuff is addictive.
+- I’ve built, broken, and rebuilt more projects than I’d like to admit.
+- Currently building startups, freelancing, and community gigs because who needs free time anyway?
 
-## 💫 About Me
-
-🎓 **Pursuing**: B.Sc in Data Science & AI/ML  
-🚀 **Passions**: Building innovative projects, content creation, and audio engineering.  
-
----
-
-## 🏆 Achievements
-- **Hackathon Wins**:  
-  - 🥉 *2nd Runner-Up*: HackForIndia2023 (Silver Oak University)  
-  - 🥉 *2nd Runner-Up*: CodeCraftChallenge2023 (Karnavati University)  
-- Completed **Google Generative AI Study Jams**  
-- Earned **Java DSA Certificate** (IIT Kharagpur)  
-- Completed **Google Data Analytics Course**  
-
----
-
-## 📈 What Sets Me Apart
-- **Startup Builder**: Actively building a startup.  
-- **Community Engagement**: Active in tech communities and volunteering.  
-- **Freelancer**: Diverse portfolio with successful projects across industries.  
-
----
+#### Highlights from the chaos:
+- 🥉 HackForIndia 2023 (Silver Oak University) — 2nd Runner-up  
+- 🥉 CodeCraftChallenge 2023 (Karnavati University) — 2nd Runner-up  
+- 🎓 Google Generative AI Study Jams graduate  
+- 🎯 Java DSA certified by IIT Kharagpur  
+- 📊 Google Data Analytics course completion (yes, I like dashboards)
 
 
-## 📜 Blog Posts
+#### 📜 Blog Posts
 Check out my articles on [Medium](https://medium.com/@tanishaness)
 <br>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishaness&show_icons=true&theme=radical&cache_seconds=3600)
+<img src="https://github-readme-stats.vercel.app/api?username=tanishaness&show_icons=true&theme=radical&cache_seconds=3600" width="450" alt="GitHub Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaness&layout=compact&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaness&layout=compact&cache_seconds=3600" width="300" alt="Top Languages" />
+</a>
 
 ## GitHub Trophies 🏆
-![trophy](https://github-profile-trophy.vercel.app/?username=tanishaness&theme=onedark&cache_seconds=3600)
+<img src="https://github-profile-trophy.vercel.app/?username=tanishaness&theme=onedark&cache_seconds=3600" width="300" alt="GitHub Trophies" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishaness&show_icons=true&theme=radical&hide_title=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=tanishaness&show_icons=true&theme=radical&hide_title=true" width="450" alt="GitHub Stats" />
 
 ### **Tech Stack**
 
