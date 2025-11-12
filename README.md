@@ -96,6 +96,7 @@ Check out my articles on [Medium](https://medium.com/@tanishaness)
 📸 Instagram	@tanie.mp3
 💼 LinkedIn	@Tanisha-Lalwani
 🌀 Discord	@chinkichacha
+Twitter @tanishaness22
 
 
 <h1 align="center">
