@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=I+make+static+sites+jealous+with+animation!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=I+make+animated+websites!!" alt="Typing SVG" />
 </h1>
 
 ## Hey, I’m Tanisha Lalwani (@tanishaness)
