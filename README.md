@@ -27,11 +27,6 @@ Check out my articles on [Medium](https://medium.com/@tanishaness)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaness&layout=compact&cache_seconds=3600" width="300" alt="Top Languages" />
 </a>
 
-## GitHub Trophies 🏆
-<img src="https://github-profile-trophy.vercel.app/?username=tanishaness&theme=onedark&cache_seconds=3600" width="300" alt="GitHub Trophies" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=tanishaness&show_icons=true&theme=radical&hide_title=true" width="450" alt="GitHub Stats" />
-
 ### **Tech Stack**
 
 #### **Languages**
