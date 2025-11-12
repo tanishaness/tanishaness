@@ -2,13 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=I+make+animated+websites!!" alt="Typing SVG" />
 </h1>
 
-<span style="color:#D36C9E; font-weight:bold;">## Hey, I’m Tanisha Lalwani (@tanishaness)</span><br>
+
+  ## Hey, I’m Tanisha Lalwani (@tanishaness)</span><br>
 <span style="color:#D36C9E;">- Full stack developer, Been fooling around with AI, Web3, and cloud bits lately — because who doesn't want their portfolio to sound like a buzzword salad?</span><br>
 <span style="color:#D36C9E;">- Got into tech out of curiosity, stayed because making stuff is addictive.</span><br>
 <span style="color:#D36C9E;">- I’ve built, broken, and rebuilt more projects than I’d like to admit.</span><br>
 <span style="color:#D36C9E;">- Currently building startups, freelancing, and community gigs because who needs free time anyway?</span><br><br>
 
-<span style="color:#D36C9E; font-weight:bold;">#### Highlights from the chaos:</span><br>
+
+  #### Highlights from the chaos:</span><br>
 <span style="color:#D36C9E;">- 🥉 HackForIndia 2023 (Silver Oak University) — 2nd Runner-up</span><br>
 <span style="color:#D36C9E;">- 🥉 CodeCraftChallenge 2023 (Karnavati University) — 2nd Runner-up</span><br>
 <span style="color:#D36C9E;">- 🎓 Google Generative AI Study Jams graduate</span><br>
