@@ -21,8 +21,6 @@ Check out my articles on [Medium](https://medium.com/@tanishaness)
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanishaness&show_icons=true&theme=radical&cache_seconds=3600" width="450" alt="GitHub Stats" />
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaness&layout=compact&cache_seconds=3600" width="300" alt="Top Languages" />
 </a>
