@@ -10,8 +10,8 @@
 
 
   #### Highlights from the chaos:</span><br>
-- HackForIndia 2023 (Silver Oak University) — 2nd Runner-up</span><br>
-- CodeCraftChallenge 2023 (Karnavati University) — 2nd Runner-up</span><br>
+- HackForIndia 2023 — 2nd Runner-up</span><br>
+- CodeCraftChallenge 2023 — 2nd Runner-up</span><br>
 - Google Generative AI Study Jams graduate</span><br>
 - Java DSA certified by IIT Kharagpur</span><br>
 - Google Data Analytics course completion (yes, I like dashboards, I have a degree in data science)</span>
