@@ -3,15 +3,10 @@
 </h1>
 
 
-  ## Hey, I’m Tanisha Lalwani (@tanishaness)</span><br>
+  ## Hey, I’m Tanisha Lalwani </span><br>
 - Full stack developer, Been fooling around with AI, Web3, and cloud bits lately — because who doesn't want their portfolio to sound like a buzzword salad?</span><br>
 - Got into tech out of curiosity, stayed because making stuff is addictive.</span><br><br>
 
-
- 
-#### 📜 Blog Posts
-Check out my articles on [Medium](https://medium.com/@tanishaness)
-<br>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
