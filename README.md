@@ -5,19 +5,10 @@
 
   ## Hey, I’m Tanisha Lalwani (@tanishaness)</span><br>
 - Full stack developer, Been fooling around with AI, Web3, and cloud bits lately — because who doesn't want their portfolio to sound like a buzzword salad?</span><br>
-- Got into tech out of curiosity, stayed because making stuff is addictive.</span><br>
-- Currently building startups, freelancing, and community gigs because who needs free time anyway?</span><br><br>
+- Got into tech out of curiosity, stayed because making stuff is addictive.</span><br><br>
 
 
-  #### Highlights from the chaos:</span><br>
-- HackForIndia 2023 — 2nd Runner-up</span><br>
-- CodeCraftChallenge 2023 — 2nd Runner-up</span><br>
-- Google Generative AI Study Jams graduate</span><br>
-- Java DSA certified by IIT Kharagpur</span><br>
-- Google Data Analytics course completion (yes, I like dashboards, I have a degree in data science)</span>
-
-
-
+ 
 #### 📜 Blog Posts
 Check out my articles on [Medium](https://medium.com/@tanishaness)
 <br>
