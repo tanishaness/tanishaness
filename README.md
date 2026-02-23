@@ -8,11 +8,6 @@
 - Got into tech out of curiosity, stayed because making stuff is addictive.</span><br><br>
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaness&layout=compact&cache_seconds=3600" width="300" alt="Top Languages" />
-</a>
-
 ### Tech Stack
 
 **Languages**  
